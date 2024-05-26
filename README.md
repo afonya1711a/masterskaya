@@ -5,7 +5,7 @@
 ## Ссылки:
 Проект: 
 
-(https://github.com/afonya1711a/yandex_practicum_masterskaya/blob/main/Анализ%20базы%20вакансий.ipynb)
+https://github.com/afonya1711a/masterskaya/blob/main/Анализ%20базы%20вакансий.ipynb
 
 Презентация:
 
